@@ -1,0 +1,19 @@
+# Local development files - keep out of GitHub
+turds/
+claude_project_files/
+claude_proj_gather_script.sh
+
+# Keep only specific background docs, not full projects
+background/nftables-gui/
+background/relianoid/
+background/webmin-plugins/
+background/cockpit-extensions/
+background/populate.sh
+
+# Original/backup versions
+firewalld-rich.orig/
+
+# Temporary files
+*.tmp
+*~
+.DS_Store
