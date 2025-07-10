@@ -1,0 +1,7 @@
+desc=FirewallD Rich Rules
+longdesc=Advanced management of firewalld rich rules with full syntax support
+category=net
+depends=firewalld
+version=1.0
+os_support=*-linux
+
